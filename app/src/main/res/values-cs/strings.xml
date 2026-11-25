@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hudební přehrávač</string>
+    <string name="tab_library">Hudba</string>
+    <string name="tab_playlists">Playlisty</string>
+    <string name="tab_settings">Nastavení</string>
+    <string name="library_title">Tvoje hudba</string>
+    <string name="library_intro">Tvoje offline hudební kolekce.</string>
+    <string name="permission_title">Přístup k hudbě</string>
+    <string name="permission_description">Povol přístup k hudebním souborům, abychom mohli připravit tvoji knihovnu.</string>
+    <string name="permission_granted">Přístup k hudebním souborům byl povolen.</string>
+    <string name="grant_permission">Povolit přístup</string>
+    <string name="playlists_title">Playlisty</string>
+    <string name="playlists_placeholder">Správa playlistů bude přidána v milníku M3.</string>
+    <string name="settings_title">Nastavení</string>
+    <string name="settings_placeholder">Nastavení aplikace přidáme v dalších milnících.</string>
+</resources>
